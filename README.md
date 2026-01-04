@@ -65,7 +65,8 @@ node notification-worker/index.js
 
 # Terminal 4
 python analytics-service/main.py
-📸 Preview
 ```
 
-### Passo 3: Comitar e Finalizar 💾
+ <img src="./assets/image.png" alt="Dashboard" width="600" style="margin-bottom: 20px;">
+
+
