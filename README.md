@@ -67,6 +67,6 @@ node notification-worker/index.js
 python analytics-service/main.py
 ```
 
- <img src="./assets/image.png" alt="Dashboard" width="600" style="margin-bottom: 20px;">
+ <img src="./assets/image.png" alt="Dashboard" style="margin-bottom: 20px;">
 
 
